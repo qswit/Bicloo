@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BiclooFinder</string>
+
+    <!-- Common -->
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+
+    <!-- Maps -->
+    <string name="needForGPS">Do you want to turn on GPS ?</string>
+
+    <!-- StationCardView -->
+    <string name="bikesAvailable">bikes available</string>
+    <string name="unknownBikeAvailibility">Unknown bike availibility</string>
+    <string name="closedUpperCase">CLOSED</string>
+
+    <!-- Stations -->
+    <string name="searchStation">Search station</string>
+    <string name="hide">Hide stations : </string>
+    <string name="closedStations">closed</string>
+    <string name="emptyStations">empty</string>
+    <string name="fullStations">full</string>
+</resources>
